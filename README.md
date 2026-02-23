@@ -1,7 +1,7 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
 Breadth First Search Traversal of a Graph
-<h3>Name: R Abinav Kumar </h3>
-<h3>Register Number:212224210001 </h3>
+<h3>Name:MOHAMMED ABUBAKKAR SIDDHEEQ A </h3>
+<h3>Register Number:212224020032 </h3>
 
 AIM:To Implement-Breadth-First-Search-Traversal-of-a-Graph 
 Theory: 
